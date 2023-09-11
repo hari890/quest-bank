@@ -32,7 +32,7 @@ module.exports = {
             <br />
             <p>MALLAVARAPU HARI KRISHNA</p>
             <p>CEO</p>
-            <p>questionbank.com</p>
+            <p>questionroom.com</p>
             <p>+91 xxx-xxxx-xxx</p>`,
           });
            console.log(res);
