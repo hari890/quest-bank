@@ -30,10 +30,10 @@ module.exports = {
             <p>With sincere appreciation,</p>
             <br />
             <br />
-            <p>Subroto Biswas</p>
+            <p>MALLAVARAPU HARI KRISHNA</p>
             <p>CEO</p>
             <p>questionbank.com</p>
-            <p>+91 333-3333-333</p>`,
+            <p>+91 xxx-xxxx-xxx</p>`,
           });
            console.log(res);
         }
